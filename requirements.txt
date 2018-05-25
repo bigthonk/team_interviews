@@ -2,8 +2,6 @@ bokeh
 boto3
 configparser
 datetime
-glob2
-io
 matplotlib
 numpy
 pandas
