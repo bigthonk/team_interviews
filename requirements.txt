@@ -3,7 +3,6 @@ boto3
 configparser
 datetime
 glob2
-gzip
 io
 matplotlib
 numpy
