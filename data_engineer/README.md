@@ -1,5 +1,9 @@
 # Data Engineering Programming Interview
 
+## SQL Questions
+1) Start by opening sql_questions.md or SQL_questions.ipynb under sql directory.
+2) Write down the query you would use to run for each question.
+
 ## Q1: Basic File ETL: 
 1)	Load TSV with headers file.
 2)	Replace column evars with corresponding values 
@@ -10,7 +14,8 @@
 1)  Load TSV with columns file
 2)  Replace column names with mappings values
 3)  Remove unused columns.
-4) Save as new CSV.
+4)  Save as new CSV.
+5)  Verify final dataset and resolve issues.
 
 ## Q3: ETL Functions
 1)  Create function to load incremental data
