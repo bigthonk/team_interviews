@@ -1,13 +1,4 @@
-bokeh
-boto3
-configparser
-datetime
+pandas
 matplotlib
 numpy
-pandas
-pathlib
-plotly
-psycopg2
-seaborn
 sklearn
-sqlalchemy
